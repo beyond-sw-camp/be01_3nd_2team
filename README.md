@@ -34,7 +34,7 @@
 
 
 # Repository
-Vue: https://github.com/HW-knowledge-management/main-page
-express: https://github.com/HW-knowledge-management/express/tree/main
-npm: https://github.com/HW-knowledge-management/npm
-json-server: https://github.com/HW-knowledge-management/json-server/tree/main
+- Vue: https://github.com/HW-knowledge-management/main-page
+- express: https://github.com/HW-knowledge-management/express/tree/main
+- npm: https://github.com/HW-knowledge-management/npm
+- json-server: https://github.com/HW-knowledge-management/json-server/tree/main
