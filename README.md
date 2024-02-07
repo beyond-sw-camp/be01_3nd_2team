@@ -52,3 +52,7 @@
 
 # 발표 자료
 https://docs.google.com/presentation/d/1vgl3l5Kqy1IoYUTcnSXa4QdV9e7PkzVEjg0QUesCi24/edit#slide=id.g2684fd2619b_0_0
+
+# 시연
+![2024-02-07 16-20-09](https://github.com/beyond-sw-camp/be01_3nd_2team/assets/44054359/7fee5dcc-ae5e-410f-a5c7-3efbc1bda2c6)
+
