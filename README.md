@@ -49,3 +49,6 @@
 
 # 배포 링크
 - https://team2-kms.web.app/
+
+# 발표 자료
+https://docs.google.com/presentation/d/1vgl3l5Kqy1IoYUTcnSXa4QdV9e7PkzVEjg0QUesCi24/edit#slide=id.g2684fd2619b_0_0
